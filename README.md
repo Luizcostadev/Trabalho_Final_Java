@@ -13,9 +13,9 @@ O projeto proporcionou uma **experiência lúdica e técnica** ao mesmo tempo, c
 - Simulação de batalhas entre Pokémons
 - Definição de tipos e vantagem entre eles (Grama, Fogo, Água, etc.)
 
-**MEMBROS:**
-Luiz Eduardo Serafim: github.com/Luizcostadev
-Luis Eduardo Bezerra: github.com/loki-crypto
-Paulo Renato: github.com/PaulusCorporation
-Mateus Augusto: github.com/Mateusemh 
+MEMBROS:
+- Luiz Eduardo Serafim: github.com/Luizcostadev
+- Luis Eduardo Bezerra: github.com/loki-crypto
+- Paulo Renato: github.com/PaulusCorporation
+- Mateus Augusto: github.com/Mateusemh 
 ---
